@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://arthurgarzah79.github.io/arthurgarzah79_github_io_zp528_13.txt
+Sitemap: https://arthurgarzah79.github.io/arthurgarzah79_github_io_zp528_18.txt
+Sitemap: https://arthurgarzah79.github.io/arthurgarzah79_github_io_zp528_22.txt
+Sitemap: https://arthurgarzah79.github.io/arthurgarzah79_github_io_zp528_27.txt
+Sitemap: https://arthurgarzah79.github.io/arthurgarzah79_github_io_zp528_6.txt
